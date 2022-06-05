@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaFundamentals.iml" filepath="$PROJECT_DIR$/JavaFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dozie/billing/billing.iml" filepath="$PROJECT_DIR$/com.dozie/billing/billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dozie/demo/demo.iml" filepath="$PROJECT_DIR$/com.dozie/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dozie/order/order.iml" filepath="$PROJECT_DIR$/com.dozie/order/order.iml" />
+    </modules>
+  </component>
+</project>
