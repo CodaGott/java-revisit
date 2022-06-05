@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaFundamentals.iml" filepath="$PROJECT_DIR$/JavaFundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.dozie/billing/billing.iml" filepath="$PROJECT_DIR$/com.dozie/billing/billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dozie/delivery/delivery.iml" filepath="$PROJECT_DIR$/com.dozie/delivery/delivery.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.dozie/demo/demo.iml" filepath="$PROJECT_DIR$/com.dozie/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.dozie/order/order.iml" filepath="$PROJECT_DIR$/com.dozie/order/order.iml" />
     </modules>
   </component>
 </project>
