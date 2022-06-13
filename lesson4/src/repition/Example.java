@@ -7,10 +7,20 @@ public class Example {
 
         var s = "Hello";
 
-        while (i <= s.length()){
-            System.out.println(i);
+//        while (true){
+//            System.out.println(i);
+//            i++;
+//            if (i == 11){
+//                break;
+//            }
+//        }
+//        System.out.println("THE END!!!");
+
+        while (i < 10){
             i++;
+            if (i % 2 == 0){
+                System.out.println(i + " is an even number");
+            }
         }
-        System.out.println("THE END!!!");
     }
 }
