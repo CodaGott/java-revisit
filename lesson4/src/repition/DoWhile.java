@@ -29,5 +29,19 @@ public class DoWhile {
 
         System.out.println("Result 2 : "+ result2);
 
+        //TODO::: >>> && --- and operator
+
+        // TODO:::>>> with && operator they both have to be true
+        //  for the expression to be true.
+        //  T && T = true.
+        //  T && F = false.
+        //  F && F = false.
+
+        boolean b1 = true;
+        boolean b2 = false;
+
+        boolean res = b1 && b2;
+        System.out.println("Res: " + res);
+
     }
 }
