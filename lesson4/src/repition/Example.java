@@ -19,8 +19,18 @@ public class Example {
         while (i < 10){
             i++;
             if (i % 2 == 0){
-                System.out.println(i + " is an even number");
+//                System.out.println(i + " is an even number");
             }
+        }
+        int ii = 1, j = 1;
+        X: while (ii <= 5){
+
+            Y: while (j < 3){
+                System.out.println("J : " + j);
+            if (j % 2 == 0) break X;
+            j++;
+            }
+            ii++;
         }
     }
 }
