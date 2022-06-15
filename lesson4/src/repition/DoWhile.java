@@ -43,5 +43,10 @@ public class DoWhile {
         boolean res = b1 && b2;
         System.out.println("Res: " + res);
 
+
+        // TODO::: >>> || | ---- OR logical operator.
+        //  with the OR operator, both expression needs to be false for them
+        //  to be false, every-other thing is true.
+
     }
 }
